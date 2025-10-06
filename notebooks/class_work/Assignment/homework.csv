@@ -1,0 +1,76 @@
+Person,Activity_Type,Calories_Burned,Steps,Hours_Slept,Mood
+Aria,Walking,248,8079,9.2,Happy
+Aria,Swimming,565,3419,6.7,Happy
+Aria,Running,539,5173,5.4,Tired
+Milo,Running,475,7911,7.2,Tired
+Milo,Hiking,402,12084,7.7,Energetic
+Milo,Strength Training,386,4484,5.8,Happy
+Luna,HIIT,838,6552,6.9,Focused
+Luna,Yoga,225,2419,7.6,Energetic
+Luna,Strength Training,484,3854,5.6,Tired
+Kai,Walking,216,7282,8.2,Happy
+Kai,Cycling,532,7332,7.9,Happy
+Kai,Yoga,220,1913,7.6,Relaxed
+Jasper,Swimming,603,5233,5.6,Tired
+Jasper,Strength Training,475,4892,6.8,Relaxed
+Jasper,Yoga,153,3049,7.2,Energetic
+Sienna,Hiking,477,8824,5.9,Relaxed
+Sienna,Strength Training,373,3898,7.8,Relaxed
+Sienna,Walking,276,10969,7.8,Relaxed
+Theo,Cycling,402,5240,5.7,Stressed
+Theo,Walking,407,6867,6.8,Happy
+Theo,Yoga,202,1479,7.2,Calm
+Freya,HIIT,545,4916,7.1,Happy
+Freya,Strength Training,517,2788,7.2,Energetic
+Freya,Hiking,608,14749,8.6,Happy
+Elias,Swimming,604,3611,6.8,Tired
+Elias,HIIT,598,6027,7.2,Energetic
+Elias,Walking,296,6787,7.1,Happy
+Nova,Swimming,593,4206,5.8,Stressed
+Nova,Cycling,424,5216,7.0,Calm
+Nova,Strength Training,456,5701,7.1,Happy
+Mateo,Hiking,518,13935,8.0,Focused
+Mateo,Strength Training,418,3318,5.8,Energetic
+Mateo,Walking,268,8472,6.3,Energetic
+Isla,Swimming,498,3755,6.4,Calm
+Isla,Walking,304,8069,8.8,Tired
+Isla,Strength Training,468,4182,9.6,Happy
+Finn,Hiking,440,11629,6.9,Energetic
+Finn,Walking,299,7696,8.5,Happy
+Finn,Running,577,9185,7.7,Happy
+Zoey,Running,661,9716,7.7,Stressed
+Zoey,Strength Training,363,6158,7.8,Relaxed
+Zoey,Cycling,426,6773,10.5,Relaxed
+Leo,Walking,221,8074,7.1,Energetic
+Leo,Hiking,457,6065,7.8,Tired
+Leo,Strength Training,397,5807,7.0,Relaxed
+Amara,Yoga,147,4172,9.9,Tired
+Amara,Swimming,328,4186,6.5,Energetic
+Amara,Running,588,7456,8.8,Happy
+Hugo,Swimming,523,6245,6.4,Stressed
+Hugo,Yoga,267,2561,7.2,Happy
+Hugo,Strength Training,406,3522,7.6,Energetic
+Iris,Yoga,214,2273,8.5,Happy
+Iris,Running,520,10512,9.0,Tired
+Iris,Cycling,517,6516,7.9,Relaxed
+Axel,HIIT,629,5092,7.2,Focused
+Axel,Swimming,491,4281,6.6,Happy
+Axel,Strength Training,492,3943,6.3,Stressed
+Nora,Walking,242,7008,7.0,Relaxed
+Nora,HIIT,381,3413,6.0,Focused
+Nora,Swimming,599,3782,8.3,Relaxed
+Luca,Cycling,433,7424,6.8,Happy
+Luca,HIIT,645,5421,6.6,Focused
+Luca,Walking,356,10417,5.8,Energetic
+Maya,Walking,238,8478,6.7,Happy
+Maya,Swimming,322,5770,6.9,Happy
+Maya,Running,584,9826,6.5,Tired
+Felix,Yoga,212,3111,9.2,Focused
+Felix,Running,482,7563,6.9,Relaxed
+Felix,Walking,158,11326,7.3,Energetic
+Elise,Hiking,450,11143,8.9,Focused
+Elise,Swimming,377,3156,6.9,Focused
+Elise,Running,557,9448,7.1,Happy
+Dante,Swimming,440,3033,8.6,Focused
+Dante,Strength Training,381,3449,6.7,Energetic
+Dante,HIIT,606,3647,5.2,Calm
